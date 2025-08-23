@@ -98,6 +98,12 @@ func performPost() {
 	fmt.Println(string(data))
 
 }
+func basics2() {
+	fmt.Println("Hello basics1")
+}
+func basics21() {
+	fmt.Println("Hello basics21")
+}
 func main() {
 	performGet()
 	performPost()
